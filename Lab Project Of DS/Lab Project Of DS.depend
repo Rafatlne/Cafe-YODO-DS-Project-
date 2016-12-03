@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1480708472 source:/home/rafat/C project/Lab Project Of DS/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
